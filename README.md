@@ -13,5 +13,17 @@ Performed Exploratory Data Analysis (EDA) on Diwali sales data to generate key b
 - Analyzed product categories and regional sales contributions
 - Generated actionable insights to support business decision-making
 
+  ## 📂 Repository Structure
+Diwali-Sales-EDA-Analysis/
+│
+├── data/
+│ └── diwali_sales.csv # Dataset used (if shareable)
+│
+├── notebooks/
+│ └── diwali-sale.ipynb # Complete Jupyter Notebook
+│
+└── README.md # Project overview
+
 - ## 📈 Visual Preview (Optional)
 All visualizations and detailed analysis can be viewed directly in the [Jupyter Notebook](diwali-sale.ipynb).
+
