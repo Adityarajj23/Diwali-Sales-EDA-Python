@@ -14,4 +14,4 @@ Performed Exploratory Data Analysis (EDA) on Diwali sales data to generate key b
 - Generated actionable insights to support business decision-making
 
 - ## 📈 Visual Preview (Optional)
-All visualizations and detailed analysis can be viewed directly in the [Jupyter Notebook](notebooks/Diwali_Sales_EDA.ipynb).
+All visualizations and detailed analysis can be viewed directly in the [Jupyter Notebook](diwali-sale.ipynb).
